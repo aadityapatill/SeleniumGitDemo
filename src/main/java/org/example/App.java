@@ -11,5 +11,6 @@ public class App
         System.out.println( "Gm tom !");
         System.out.println( "Gm sam !");
         System.out.println( "Gm martin !");
+        System.out.println( "Good morning!");
     }
 }
