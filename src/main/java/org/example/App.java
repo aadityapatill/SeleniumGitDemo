@@ -12,6 +12,7 @@ public class App
         //added methods
         if (true){
             System.out.println("Hello");
+            System.out.println("Hello");
         }
 
     }
